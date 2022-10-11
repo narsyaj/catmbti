@@ -1,0 +1,8 @@
+.App {
+    font-family: "DeogonPrincess";    
+}
+
+@font-face {
+    font-family: "DeogonPrincess";
+    src: url(assets/fonts/DeogonPrincess.ttf);
+}
